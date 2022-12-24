@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sadaf Ahmed</h1>
-<h3 align="center">A passionate Web Programmer currently a first-year student at Amrita Vishwa Vidyapeetham, where i am pursuing a B.Tech degree in computer science. I have a keen interest in Web Development. I'm always trying to upskill and contribute to the GitHub community</h3>
+<h3 align="center">A passionate Programmer currently a first-year student at Amrita Vishwa Vidyapeetham, where i am pursuing a B.Tech degree in computer science. I have a keen interest in Web Development. I'm always trying to upskill and contribute to the GitHub community</h3>
 <img align="right" alt="Coding" Width=400 src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 🌱 I’m currently learning |MERN stack|
 <br>
