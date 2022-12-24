@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sadaf Ahmed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate web developer</h3>
+<img align="right" alt="Coding" Width=400 src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **C, C++ and javascript**
@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/sadaf ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadaf ahmed" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sadaf04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sadaf04" height="30" width="40" /></a>
 </p>
 
