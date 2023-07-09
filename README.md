@@ -3,14 +3,14 @@
     <h1>Hi, I'm Sadaf Ahmed</h1>
     <h3>A passionate Programmer currently a first-year student at Amrita Vishwa Vidyapeetham, where I am pursuing a B.Tech degree in computer science. I have a keen interest in Web Development. I'm always trying to upskill and contribute to the GitHub community.</h3>
     <div style="display: inline-block;">
-    <ul>  
-      <li>🌱 I’m currently learning <strong>MERN stack</strong>
-      <li>💬 Ask me about <strong>C++, JavaScript, and TypeScript</strong></li>
-      <li>📫 How to reach me: <strong>sadaf.ahmed.in@hotmail.com</strong></li>
-    </ul>
-      <img alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" style="margin-right: 20px;">
+      <ul>  
+        <li>🌱 I’m currently learning <strong>MERN stack</strong>
+        <li>💬 Ask me about <strong>C++, JavaScript, and TypeScript</strong></li>
+        <li>📫 How to reach me: <strong>sadaf.ahmed.in@hotmail.com</strong></li>
+      </ul>
+      <img alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" style="margin-right: 20px; margin-left: 100px;">
     </div>
-      <h3>Languages and Tools:</h3>
+    <h3>Languages and Tools:</h3>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
