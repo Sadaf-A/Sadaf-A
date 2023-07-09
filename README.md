@@ -8,9 +8,7 @@
       <li>💬 Ask me about <strong>C++, JavaScript, and TypeScript</strong></li>
       <li>📫 How to reach me: <strong>sadaf.ahmed.in@hotmail.com</strong></li>
     </ul>
-    <p>
       <img alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" style="margin-right: 20px;">
-    </p>
     </span>
       <h3>Languages and Tools:</h3>
     <p>
