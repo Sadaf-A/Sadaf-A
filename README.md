@@ -10,23 +10,23 @@
     <h3>Languages and Tools:</h3>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <strong>|</strong>
+      <span style="margin: 0 10px">|</span>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-      <strong>|</strong>
+      <span style="margin: 0 10px">|</span>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      <strong>|</strong>
+      <span style="margin: 0 10px">|</span>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-      <strong>|</strong>
+      <span style="margin: 0 10px">|</span>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
-      <strong>|</strong>
+      <span style="margin: 0 10px">|</span>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-      <strong>|</strong>
+      <span style="margin: 0 10px">|</span>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </p>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadaf-a&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" style="margin-right: 20px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sadaf-a&show_icons=true&locale=en" alt="GitHub Stats" width="400" style="margin-bottom: 20px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadaf-a" alt="GitHub Streak" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadaf-a&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" height="400" style="margin-right: 20px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sadaf-a&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="400" style="margin-bottom: 20px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadaf-a" alt="GitHub Streak" width="400" height="400" />
   </div>
 </div>
