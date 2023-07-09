@@ -1,3 +1,4 @@
+<div>
     <h1>Hi, I'm Sadaf Ahmed</h1>
     <h3>A passionate Programmer currently a first-year student at Amrita Vishwa Vidyapeetham, where I am pursuing a B.Tech degree in computer science. I have a keen interest in Web Development. I'm always trying to upskill and contribute to the GitHub community.</h3>
     <div style="display: inline-block;">
@@ -8,6 +9,7 @@
       </ul>
       <img alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" style="margin-right: 20px; margin-left: 100px;">
     </div>
+</div>
     <div style="display: flex; align-items: flex-start;">
   <div>
     <h3>Languages and Tools:</h3>
