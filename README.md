@@ -20,6 +20,7 @@
     </ul>
   </div>
   <div>
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadaf-a&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=sadaf-a&show_icons=true&locale=en" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadaf-a" alt="GitHub Streak" />
