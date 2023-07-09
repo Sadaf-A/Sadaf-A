@@ -2,14 +2,14 @@
   <div>
     <h1>Hi, I'm Sadaf Ahmed</h1>
     <h3>A passionate Programmer currently a first-year student at Amrita Vishwa Vidyapeetham, where I am pursuing a B.Tech degree in computer science. I have a keen interest in Web Development. I'm always trying to upskill and contribute to the GitHub community.</h3>
-    <p style="display: flex; align-items: center; margin-left: 20px;">
-      <img alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" style="margin-right: 20px;">
-      <span style="display: inline-block;">🌱 I’m currently learning <strong>MERN stack</strong></span>
+    <span style="display: inline-block;">🌱 I’m currently learning <strong>MERN stack</strong></span>
     </p>
     <ul>
       <li>💬 Ask me about <strong>C++, JavaScript, and TypeScript</strong></li>
       <li>📫 How to reach me: <strong>sadaf.ahmed.in@hotmail.com</strong></li>
     </ul>
+    <p style="display: flex; align-items: center; margin-left: 20px;">
+      <img alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" style="margin-right: 20px;">
     <h3>Languages and Tools:</h3>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
