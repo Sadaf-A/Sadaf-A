@@ -27,4 +27,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadaf-a&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" style="margin-right: 20px" />
     <img src="https://github-readme-stats.vercel.app/api?username=sadaf-a&show_icons=true&locale=en" alt="GitHub Stats" width="400" style="margin-bottom: 20px" />
     [![Sadaf-A's GitHub | Stats](https://stats.quine.sh/Sadaf-A/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sadaf-A)
+  </div>
+    
     </div>
