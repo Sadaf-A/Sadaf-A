@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Sadaf!
 
 - 🚀 I'm a 2nd-year student at Amrita Vishwa Vidyapeetham.
-- 🚀 8 months at Infernito Technologies, specializing in Backend development.
+- 🚀 8 months at Infenito Technologies, specializing in Backend development.
 - 🚀 I'm also a passionate learner who loves to explore various technologies and contribute to open source projects.
 
 ![Backend Development](https://progress-bar.dev/100/?title=Backend) ![Open Source Contribution](https://progress-bar.dev/100/?title=Open%20Source)
