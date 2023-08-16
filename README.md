@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm (Name)!
+## 👋 Hi there! I'm Sadaf!
 
 - 🚀 I'm a 2nd-year student at Amrita Vishwa Vidyapeetham.
 - 🚀 8 months at Infernito Technologies, specializing in Backend development.
