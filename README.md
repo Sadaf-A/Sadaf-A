@@ -8,10 +8,10 @@
 
 ### Skills!
 
-- 💼 **Backend Development:** Python, Java, API Design
-- ⚙️ **Database:** SQL, MongoDB
+- 💼 **Backend Development:** TypeScript, Java, SpringBoot, REST API Design
+- ⚙️ **Database:** postgreSQL, MongoDB
 - 🛠️ **Tools:** Git, Docker
-- 🌐 **Web Development:** HTML, CSS, Flask
+- 🌐 **Web Development:** HTML, CSS, javascript
 
 ### GitHub Analytics!
 
