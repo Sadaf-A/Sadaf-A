@@ -1,26 +1,44 @@
-## 👋 Hi there! I'm Sadaf!
+<p align="center">
+<a href="https://github.com/Sadaf-A">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sadaf+Ahmed;Sophomore+%7C+Backend+Developer+%7C+Open+Source;Springboot+%7C+TypeScript+%7C+MEAN" alt="Typing SVG" />
+</a>
+<br/>
+ 
+<a href="https://Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/sadaf-ahmed-b7b86b24b/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:sadaf.ahmed.in@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
-- 🚀 I'm a 2nd-year student at Amrita Vishwa Vidyapeetham.
-- 🚀 8 months at Infenito Technologies, specializing in Backend development.
-- 🚀 I'm also a passionate learner who loves to explore various technologies and contribute to open source projects.
+<br/> 
 
-![Backend Development](https://progress-bar.dev/100/?title=Backend) ![Open Source Contribution](https://progress-bar.dev/100/?title=Open%20Source)
+<a href="https://github.com/Sadaf-A">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Sadaf-A&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-### Skills!
+</p>
 
-- 💼 **Backend Development:** TypeScript, Java, SpringBoot, REST API Design
-- ⚙️ **Database:** postgreSQL, MongoDB
-- 🛠️ **Tools:** Git, Docker
-- 🌐 **Web Development:** HTML, CSS, javascript
+* 📖 Undergraduate student at Amrita Vishwa Vidyapeetham.
 
-### GitHub Analytics!
+* 💡 Open to collaborating on projects and innovative ideas. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadaf-a&show_icons=true&locale=en" alt="GitHub Stats" width="400" style="margin-bottom: 20px" />
+* 💻 8+ months at Infenito Technologies, specializing in Backend development.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sadaf-a&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+### 🖥️ My Github Stats:
 
-### Let's Connect!
+<details>
+<summary>📈 Stats</summary>
+<br>
 
-Let's connect and collaborate! Feel free to reach out to me on
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadaf-A&theme=dracula) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadaf-ahmed-b7b86b24b/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadaf-A&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadaf-A&theme=dracula)
+
+
+<br>
+</details>
