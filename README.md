@@ -20,7 +20,6 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=Sadaf-A&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <br>
-<br>
 </p>
 
 * 📖 Undergraduate student at Amrita Vishwa Vidyapeetham.
