@@ -26,7 +26,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 8+ months at Infenito Technologies, specializing in Backend development.
+* 💻 9+ months at Infenito Technologies, specializing in Backend development.
 
 ### 🖥️ My Github Stats:
 
