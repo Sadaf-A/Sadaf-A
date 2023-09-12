@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Sadaf-A">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sadaf+Ahmed;Sophomore+%7C+Backend+Developer+%7C+Open+Source;Springboot+%7C+TypeScript+%7C+MEAN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sadaf+Ahmed;Sophomore+%7C+Backend+Developer+%7C+Open+Source;Springboot+%7C+TypeScript+%7C+MERN" alt="Typing SVG" />
 </a>
 <br/>
  
