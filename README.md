@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/1fwkR6T/download.jpg"  />
+<br clear="both">
+
+<img align="right" height="163" src="https://i.ibb.co/1fwkR6T/download.jpg"  />
 
 ###
 
