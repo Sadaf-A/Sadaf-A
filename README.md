@@ -1,4 +1,4 @@
-<h2 align="center">Sophomore | Backend Developer | Open Source</h2>
+<h2 align="center">Pre-Final | Backend Developer | Open Source</h2>
 
 ###
 
