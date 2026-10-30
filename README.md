@@ -1,4 +1,4 @@
-<h2 align="center">Backend Developer | Open Source</h2>
+<h2 align="center">Software Developer | Open Source</h2>
 
 ###
 
